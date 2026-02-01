@@ -1,6 +1,6 @@
 // 1. Union Types ( | means OR ) 
 //Exercise 1 
-/*
+
 type IDType = number | string;
 
 const showID = (idNumber: IDType,idName:string) =>{
@@ -113,7 +113,7 @@ const orderPizza = (size: PizzaSize) => {
 }
 
 orderPizza(PizzaSize.large);
-*/
+
 
 // Exercise 3
 enum Role {
